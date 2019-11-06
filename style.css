@@ -16,3 +16,7 @@ footer {
 main {
   flex-grow: 2;
 }
+
+#links .nav-link:hover {
+  color: red;
+}
